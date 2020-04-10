@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "API_CS\Demo.csproj", "{DBEAE411-BDE0-4F6F-BC52-2559AEF321AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEAE411-BDE0-4F6F-BC52-2559AEF321AD}.Debug|x86.ActiveCfg = Debug|x86
+		{DBEAE411-BDE0-4F6F-BC52-2559AEF321AD}.Debug|x86.Build.0 = Debug|x86
+		{DBEAE411-BDE0-4F6F-BC52-2559AEF321AD}.Release|x86.ActiveCfg = Release|x86
+		{DBEAE411-BDE0-4F6F-BC52-2559AEF321AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

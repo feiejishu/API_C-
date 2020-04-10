@@ -1,0 +1,12 @@
+D:\vsworkplace\feieAPI\feieAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vsworkplace\feieAPI\feieAPI\bin\Debug\feieAPI.exe
+D:\vsworkplace\feieAPI\feieAPI\bin\Debug\feieAPI.pdb
+D:\vsworkplace\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+D:\vsworkplace\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb
+G:\vsworkplace\青岛迈索-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+G:\vsworkplace\青岛迈索-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb
+G:\vsworkplace\青岛迈索-C#\feieAPI\feieAPI\bin\Debug\feieAPI.exe
+G:\vsworkplace\青岛迈索-C#\feieAPI\feieAPI\bin\Debug\feieAPI.pdb
+G:\vsworkplace\青岛迈索-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.csprojResolveAssemblyReference.cache
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb

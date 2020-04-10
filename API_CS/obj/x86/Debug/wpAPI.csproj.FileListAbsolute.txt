@@ -1,0 +1,17 @@
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\bin\Debug\feieAPI.exe
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\bin\Debug\feieAPI.pdb
+G:\vsworkplace\wp-c#\feieAPI\feieAPI\obj\x86\Debug\wpAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Feie-API-C#测试服务器\new-feieAPI-c#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+C:\Users\Administrator\Desktop\Feie-API-C#测试服务器\new-feieAPI-c#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb
+C:\Users\Administrator\Desktop\Feie-API-C#测试服务器\new-feieAPI-c#\feieAPI\feieAPI\bin\Debug\feieAPI.exe
+C:\Users\Administrator\Desktop\Feie-API-C#测试服务器\new-feieAPI-c#\feieAPI\feieAPI\bin\Debug\feieAPI.pdb
+C:\Users\Administrator\Desktop\Feie-API-C#测试服务器\new-feieAPI-c#\feieAPI\feieAPI\obj\x86\Debug\wpAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+C:\Users\Administrator\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb
+C:\Users\Administrator\Desktop\API-CS\API-C#\feieAPI\feieAPI\bin\Debug\feieAPI.exe
+C:\Users\Administrator\Desktop\API-CS\API-C#\feieAPI\feieAPI\bin\Debug\feieAPI.pdb
+C:\Users\Administrator\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\wpAPI.csprojResolveAssemblyReference.cache
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb

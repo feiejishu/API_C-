@@ -1,0 +1,15 @@
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\bin\Debug\feieAPI.exe
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\bin\Debug\feieAPI.pdb
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.exe
+C:\Users\seeing_samsung\Desktop\API-CS\API-C#\feieAPI\feieAPI\obj\x86\Debug\feieAPI.pdb
+C:\Users\seeing_samsung\Desktop\API_C#\API_CS\obj\x86\Debug\feieAPI.exe
+C:\Users\seeing_samsung\Desktop\API_C#\API_CS\obj\x86\Debug\feieAPI.pdb
+C:\Users\seeing_samsung\Desktop\API_C#\API_CS\bin\Debug\feieAPI.exe
+C:\Users\seeing_samsung\Desktop\API_C#\API_CS\bin\Debug\feieAPI.pdb
+C:\Users\seeing_samsung\Desktop\API_C#\API_CS\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\迅雷下载\API-C#\API_C#\API_CS\obj\x86\Debug\feieAPI.exe
+E:\迅雷下载\API-C#\API_C#\API_CS\obj\x86\Debug\feieAPI.pdb
+E:\迅雷下载\API-C#\API_C#\API_CS\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\迅雷下载\API-C#\API_C#\API_CS\bin\Debug\feieAPI.exe
+E:\迅雷下载\API-C#\API_C#\API_CS\bin\Debug\feieAPI.pdb
